@@ -1212,7 +1212,7 @@ greedy, heap, https://leetcode.cn/problems/furthest-building-you-can-reach/
 二分查找的难点在于边界条件。推荐参考 Python 标准库 **bisect** 的源码实现（采用左闭右开区间）：
 https://github.com/python/cpython/blob/main/Lib/bisect.py
 
-<img src="https://raw.githubusercontent.com/GMyhf/img/main/img/image-20251223141015415.png" alt="image-20251223141015415" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/GMyhf/img/main/img/202512232214333.png" alt="image-20251223221351315" style="zoom: 50%;" />
 
 
 
