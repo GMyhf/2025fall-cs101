@@ -1,6 +1,6 @@
 # 2025fall 计概（Algo DS）每日选作
 
-*Updated 2025-12-19 00:24 GMT+8*
+*Updated 2025-12-24 23:30 GMT+8*
  *Compiled by Hongfei Yan (2020 Fall)*  
 https://github.com/GMyhf/2025fall-cs101/blob/main/ADS_problem_list_at_2025fall.md
 
@@ -21,6 +21,7 @@ https://github.com/GMyhf/2025fall-cs101/blob/main/ADS_problem_list_at_2025fall.m
 
 | 日期       | 问题编号与名称                 | 标签                                 | 难度 | 链接                                             |
 | ---------- | ------------------------------ | ------------------------------------ | ---- | ------------------------------------------------ |
+| 1225 | 27141: 完美的爱     | prefix sum, hashing     | Medium | http://cs101.openjudge.cn/practice/27141/          |
 | 1224 | 10065.独特蘑菇      | sliding window    | Medium | https://sunnywhy.com/problem/10065          |
 | 1223 | 1425A. Arena of Greed | games    | 1400 | https://codeforces.com/problemset/problem/1425/A          |
 | 1222 | 29853:小蓝和小桥      | games    | Medium | http://cs101.openjudge.cn/practice/29853/          |
